@@ -6,3 +6,7 @@
 # to the guess. In this project, you will build a simple interactive 
 # program in Python where the computer will take the role of the first 
 # player while you play as the second player.
+
+import simplegui
+import random
+
